@@ -1,0 +1,6 @@
+framework module Pods_InfoChatt {
+  umbrella header "Pods-InfoChatt-umbrella.h"
+
+  export *
+  module * { export * }
+}
