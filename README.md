@@ -1,7 +1,7 @@
 # InfoChatt
 This is a demo app hence it's not in the app store. 
 
-**That project is not up to date!** It was built in 2017 using Swift 3.0 with *awful app architecture* and some of the libraries did not updated aswell.
+**That project is not up to date!** It was built in 2017 using Swift 3.0 and some of the libraries did not updated aswell.
 
 It's for demo purposes and there is a YouTube video of the app when it was working.
 
